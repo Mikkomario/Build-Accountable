@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Workspace/IDEA/Build-Accountable/Build-Accountable.iml" filepath="$USER_HOME$/Workspace/IDEA/Build-Accountable/Build-Accountable.iml" />
+      <module fileurl="file://$USER_HOME$/Workspace/IDEA/Utopia-Scala/Flow/Flow.iml" filepath="$USER_HOME$/Workspace/IDEA/Utopia-Scala/Flow/Flow.iml" />
+      <module fileurl="file://$USER_HOME$/Workspace/IDEA/Utopia-Scala/Paradigm/Paradigm.iml" filepath="$USER_HOME$/Workspace/IDEA/Utopia-Scala/Paradigm/Paradigm.iml" />
+    </modules>
+  </component>
+</project>
